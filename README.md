@@ -5,4 +5,5 @@ $pkg install git
 $pkg install python
 $git clone https://github.com/meer-haider/instatermux.git
 #cd instatermux
+# pip install instaloader
 $python instatermux.py your_username
